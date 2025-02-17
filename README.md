@@ -41,3 +41,11 @@ The main objective of this project is to analyze retail sales data to gain the a
 - **Average_Order**: = SUM(Transactions[transaction_qty])/DISTINCTCOUNT(Transactions[transaction_id])
 - **Foodfall**: = DISTINCTCOUNT(Transactions[transaction_id])
 - **Sales**: = SUM(Transactions[Total_bill]) 
+
+## 💬 Feedback and Questions
+
+If you have any feedback or questions about the project, please feel free to ask. We appreciate your input and are here to help. You can reach out by opening an issue on GitHub or by emailing me at [yashgs97312@gmail.com].
+
+Thank you for exploring the **Coffee Shop Sales Data Analysis** Project! We hope you find it useful and informative.
+
+Happy Analyzing!
