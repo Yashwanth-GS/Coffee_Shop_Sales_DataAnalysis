@@ -32,4 +32,4 @@ The main objective of this project is to analyze retail sales data to gain the a
 - **How do sales vary by product category and type?**: Results are showed in the Report Chart.
 
 ### Mock-up Dashboard
-![mock up dashboard_Coffee_shop_sales](https://github.com/Yashwanth-GS/Hospitality_Revenue_Analytics_Project/blob/3511e4ce260f8b9b2e2c0efa2270284f4b00aee4/Screenshots/Screenshot%202025-01-31%20221320.png)
+![mock up dashboard_Coffee_shop_sales](https://github.com/Yashwanth-GS/Coffee_Shop_Sales_DataAnalysis/blob/911f5553c20680994a511c7bbe3f40c9705757dd/Screenshots/Screenshot%202025-02-17%20204829.png)
