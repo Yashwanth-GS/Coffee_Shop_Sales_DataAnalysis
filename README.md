@@ -21,3 +21,13 @@ The **Coffee Sales Data Analysis** provides a detailed overview of coffee sales 
 
 The main objective of this project is to analyze retail sales data to gain the actionable insights that will enhance the performance of the coffee shop.
 
+## Recommended Analysis and its Results
+
+- **How do sales vary by day of the week and hour of the day?**: Results are showed in the Report Chart.
+- **Are there any peak times for sales activity?**: As per the Report chart, it has shown that, the peak times are between 8-10.
+- **What is the total sales revenue for each month?**: Results are showed in the Report Chart.
+- **How do sales vary across different store locations?**: Results are showed in the Report Chart.
+- **What is the average price/order per person?**: Results are showed in the Report Chart. It is Avergae Price per person is 4.69 and Average Order per person is 1.44.
+- **Which products are the best-selling in terms of quantity and revenue?**: **Coffee and Tea** products are the best-selling products in terms of Quantity and Revenue.
+- **How do sales vary by product category and type?**: Results are showed in the Report Chart.
+
