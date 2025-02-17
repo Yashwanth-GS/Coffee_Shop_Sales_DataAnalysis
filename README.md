@@ -33,3 +33,5 @@ The main objective of this project is to analyze retail sales data to gain the a
 
 ### Mock-up Dashboard
 ![mock up dashboard_Coffee_shop_sales](https://github.com/Yashwanth-GS/Coffee_Shop_Sales_DataAnalysis/blob/911f5553c20680994a511c7bbe3f40c9705757dd/Screenshots/Screenshot%202025-02-17%20204829.png)
+
+![mock up dashboard_Coffee_shop_sales]()
