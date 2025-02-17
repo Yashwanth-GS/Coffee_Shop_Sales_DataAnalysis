@@ -31,3 +31,5 @@ The main objective of this project is to analyze retail sales data to gain the a
 - **Which products are the best-selling in terms of quantity and revenue?**: **Coffee and Tea** products are the best-selling products in terms of Quantity and Revenue.
 - **How do sales vary by product category and type?**: Results are showed in the Report Chart.
 
+### Mock-up Dashboard
+![mock up dashboard_Coffee_shop_sales](https://github.com/Yashwanth-GS/Hospitality_Revenue_Analytics_Project/blob/3511e4ce260f8b9b2e2c0efa2270284f4b00aee4/Screenshots/Screenshot%202025-01-31%20221320.png)
