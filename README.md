@@ -21,6 +21,16 @@ The **Coffee Sales Data Analysis** provides a detailed overview of coffee sales 
 
 The main objective of this project is to analyze retail sales data to gain the actionable insights that will enhance the performance of the coffee shop.
 
+## Scope
+
+- **Data Collection**: Gather and verify sales data, including transactions, product details, and dates.
+- **Data Cleaning**: Import data into Power Query, clean up errors, and organize it into structured tables.
+- **Data Analysis**: Calculate key metrics like total sales and average transaction value. Identify sales trends and customer preferences.
+- **Visualization**: Create charts and graphs (line, bar, pie) to represent data trends and comparisons.
+- **Reporting**: Develop a dashboard summarizing key metrics and visualizations. Write a report with insights and recommendations for improving sales strategies.
+- **Presentation**: Prepare a presentation with clear slides to share findings and recommendations with stakeholders.
+
+
 ## Recommended Analysis and its Results
 
 - **How do sales vary by day of the week and hour of the day?**: Results are showed in the Report Chart.
